@@ -1,0 +1,2 @@
+Main-Class: PrologInterpreter.Comparison
+Class-Path: prologparser.jar
